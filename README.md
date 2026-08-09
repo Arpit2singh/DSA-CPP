@@ -59,4 +59,12 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
