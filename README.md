@@ -48,3 +48,15 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 - 📧 Reach out for collabs, DSA discussions, or placement prep swaps!
 
 ⭐ If you find any solution helpful, feel free to star this repo!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
