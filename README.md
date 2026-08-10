@@ -67,4 +67,24 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
