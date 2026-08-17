@@ -67,6 +67,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
 ## Depth-First Search
 |  |
@@ -107,4 +108,12 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
