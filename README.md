@@ -73,16 +73,19 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -100,4 +103,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
