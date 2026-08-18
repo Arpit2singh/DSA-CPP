@@ -58,6 +58,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Depth-First Search
@@ -90,6 +92,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
@@ -135,4 +138,12 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
