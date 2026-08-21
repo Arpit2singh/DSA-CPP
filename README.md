@@ -167,6 +167,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Arpit2singh/DSA-CPP/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Arpit2singh/DSA-CPP/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Arpit2singh/DSA-CPP/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Arpit2singh/DSA-CPP/tree/master/1068-product-sales-analysis-i) |
