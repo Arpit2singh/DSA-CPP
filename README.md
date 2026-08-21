@@ -168,6 +168,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Arpit2singh/DSA-CPP/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Arpit2singh/DSA-CPP/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Arpit2singh/DSA-CPP/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Arpit2singh/DSA-CPP/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Arpit2singh/DSA-CPP/tree/master/0595-big-countries) |
