@@ -164,4 +164,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Arpit2singh/DSA-CPP/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
