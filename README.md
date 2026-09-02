@@ -55,6 +55,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -178,4 +180,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [1148-article-views-i](https://github.com/Arpit2singh/DSA-CPP/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Arpit2singh/DSA-CPP/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Arpit2singh/DSA-CPP/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
