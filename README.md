@@ -55,6 +55,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +80,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
@@ -184,4 +186,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
