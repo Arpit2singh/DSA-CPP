@@ -72,6 +72,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
@@ -204,4 +206,12 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arpit2singh/DSA-CPP/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
