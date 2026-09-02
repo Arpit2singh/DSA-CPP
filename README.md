@@ -58,6 +58,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
@@ -145,6 +146,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
@@ -190,4 +192,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
