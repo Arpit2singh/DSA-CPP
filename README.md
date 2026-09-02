@@ -59,6 +59,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
@@ -70,6 +71,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Math
 |  |
