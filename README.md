@@ -139,6 +139,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Arpit2singh/DSA-CPP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -199,4 +200,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arpit2singh/DSA-CPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
