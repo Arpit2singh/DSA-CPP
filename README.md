@@ -68,6 +68,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -221,4 +222,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
