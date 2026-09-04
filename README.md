@@ -78,6 +78,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -219,6 +222,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -255,8 +259,10 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
