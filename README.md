@@ -55,6 +55,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
@@ -81,6 +82,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/1143-longest-common-subsequence) |
@@ -240,4 +242,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
