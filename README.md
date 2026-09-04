@@ -108,12 +108,14 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Arpit2singh/DSA-CPP/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
@@ -249,4 +251,12 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
