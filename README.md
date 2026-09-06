@@ -67,6 +67,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
@@ -244,6 +246,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 ## Design
 |  |
@@ -283,4 +286,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
