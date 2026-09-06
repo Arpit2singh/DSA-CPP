@@ -109,6 +109,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
@@ -120,6 +121,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Arpit2singh/DSA-CPP/tree/master/0207-course-schedule) |
@@ -262,6 +264,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
@@ -270,6 +273,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arpit2singh/DSA-CPP/tree/master/0199-binary-tree-right-side-view) |
