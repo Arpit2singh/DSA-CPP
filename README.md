@@ -59,6 +59,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0031-next-permutation](https://github.com/Arpit2singh/DSA-CPP/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Arpit2singh/DSA-CPP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
@@ -169,6 +170,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arpit2singh/DSA-CPP/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arpit2singh/DSA-CPP/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
@@ -224,6 +226,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arpit2singh/DSA-CPP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
