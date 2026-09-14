@@ -64,6 +64,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit2singh/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
@@ -99,6 +100,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0062-unique-paths](https://github.com/Arpit2singh/DSA-CPP/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit2singh/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
