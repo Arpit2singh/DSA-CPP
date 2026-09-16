@@ -79,6 +79,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit2singh/DSA-CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -326,4 +328,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
