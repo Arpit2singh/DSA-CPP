@@ -63,6 +63,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Arpit2singh/DSA-CPP/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0090-subsets-ii) |
@@ -229,6 +230,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0048-rotate-image](https://github.com/Arpit2singh/DSA-CPP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +257,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 ## Design
