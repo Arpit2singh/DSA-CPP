@@ -73,6 +73,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0518-coin-change-ii) |
@@ -86,6 +87,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -244,6 +246,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0056-merge-intervals](https://github.com/Arpit2singh/DSA-CPP/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
@@ -314,8 +317,10 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
