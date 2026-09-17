@@ -88,6 +88,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -196,6 +197,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0031-next-permutation](https://github.com/Arpit2singh/DSA-CPP/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
 ## Manacher
@@ -267,6 +269,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit2singh/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Arpit2singh/DSA-CPP/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
