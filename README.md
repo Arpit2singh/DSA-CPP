@@ -167,6 +167,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0039-combination-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Arpit2singh/DSA-CPP/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Arpit2singh/DSA-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
