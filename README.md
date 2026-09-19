@@ -79,6 +79,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit2singh/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -255,6 +257,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +268,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
@@ -301,6 +305,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -344,6 +349,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -365,4 +371,9 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
