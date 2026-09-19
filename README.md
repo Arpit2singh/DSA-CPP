@@ -75,6 +75,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arpit2singh/DSA-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Arpit2singh/DSA-CPP/tree/master/0322-coin-change) |
@@ -253,6 +254,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpit2singh/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0056-merge-intervals](https://github.com/Arpit2singh/DSA-CPP/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arpit2singh/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -296,6 +299,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -357,4 +361,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpit2singh/DSA-CPP/tree/master/0042-trapping-rain-water) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit2singh/DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
