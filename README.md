@@ -103,6 +103,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arpit2singh/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arpit2singh/DSA-CPP/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Arpit2singh/DSA-CPP/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/Arpit2singh/DSA-CPP/tree/master/0647-palindromic-substrings) |
@@ -362,6 +363,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arpit2singh/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arpit2singh/DSA-CPP/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -376,4 +378,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arpit2singh/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arpit2singh/DSA-CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
