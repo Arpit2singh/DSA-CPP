@@ -92,6 +92,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Arpit2singh/DSA-CPP/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arpit2singh/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0229-majority-element-ii) |
@@ -284,6 +285,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit2singh/DSA-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Arpit2singh/DSA-CPP/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit2singh/DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Arpit2singh/DSA-CPP/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -300,6 +302,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Arpit2singh/DSA-CPP/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Arpit2singh/DSA-CPP/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -382,4 +385,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arpit2singh/DSA-CPP/tree/master/0020-valid-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arpit2singh/DSA-CPP/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
