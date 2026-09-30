@@ -90,6 +90,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit2singh/DSA-CPP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpit2singh/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit2singh/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpit2singh/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit2singh/DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
@@ -103,6 +104,7 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpit2singh/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Arpit2singh/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Arpit2singh/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arpit2singh/DSA-CPP/tree/master/0020-valid-parentheses) |
@@ -396,4 +398,8 @@ This repo is not manually maintained — every time I solve a problem on LeetCod
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arpit2singh/DSA-CPP/tree/master/0084-largest-rectangle-in-histogram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpit2singh/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
